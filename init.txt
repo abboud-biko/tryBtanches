@@ -1,1 +1,2 @@
 initialisation of git project
+with a hello message
