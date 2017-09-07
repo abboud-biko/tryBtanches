@@ -1,3 +1,3 @@
 initialisation of git project
 with a hello message
-this is the an expected conflict
+the chosen one
